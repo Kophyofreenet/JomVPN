@@ -16,5 +16,11 @@
         "Key": "fb996f35cb751f6f",
         "Valid": "30",
         "Expiration": "12/08/2026"
+    },
+    {
+        "Name": "မျိုးမင်းထွန်း",
+        "Key": "c14c2503fb2bfbfb",
+        "Valid": "30",
+        "Expiration": "11/09/2026"
     }
 ]
