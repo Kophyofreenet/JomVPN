@@ -7,7 +7,7 @@
     },
     {
         "Name": "MMTVPN",
-        "Key": "237b11981ecfc741",
+        "Key": "",
         "Valid": "365",
         "Expiration": "17/12/2027"
     },
@@ -20,7 +20,7 @@
     {
         "Name": "မျိုးမင်းထွန်း",
         "Key": "237b11981ecfc741",
-        "Valid": "30",
-        "Expiration": "11/09/2026"
+        "Valid": "365",
+        "Expiration": "11/09/2027"
     }
 ]
