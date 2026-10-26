@@ -2,31 +2,25 @@
     {
         "Name": "MyoMinTun",
         "Key": "c14c2503fb2bfbfb",
-        "Valid": "9999",
-        "Expiration": "11/08/2030"
+        "Valid": "30",
+        "Expiration": "11/08/2026"
     },
     {
         "Name": "MMTVPN",
         "Key": "",
-        "Valid": "9999",
-        "Expiration": "17/12/2030"
+        "Valid": "365",
+        "Expiration": "17/12/2027"
     },
     {
         "Name": "ASM",
         "Key": "2427fd6b833dc4af",
-        "Valid": "9999",
-        "Expiration": "18/10/2030"
+        "Valid": "30",
+        "Expiration": "18/10/2026"
     },
     {
         "Name": "မျိုးမင်းထွန်း",
         "Key": "237b11981ecfc741",
-        "Valid": "9999",
-        "Expiration": "11/09/2030"
-    },
-    {
-        "Name": "MyoMinTun",
-        "Key": "e85aca821211c622",
-        "Valid": "9999",
-        "Expiration": "11/08/2030"
+        "Valid": "365",
+        "Expiration": "11/09/2027"
     }
 ]
