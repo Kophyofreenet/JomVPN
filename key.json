@@ -22,5 +22,17 @@
         "Key": "237b11981ecfc741",
         "Valid": "9999",
         "Expiration": "11/09/2030"
+    },
+    {
+        "Name": "MyoMinTun",
+        "Key": "e85aca821211c622",
+        "Valid": "9999",
+        "Expiration": "11/08/2030"
+    },
+    {
+        "Name": "JomVPN",
+        "Key": "e85aca821211c622",
+        "Valid": "9999",
+        "Expiration": "11/08/2030"
     }
 ]
